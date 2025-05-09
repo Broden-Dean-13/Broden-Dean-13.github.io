@@ -28,9 +28,7 @@ My interests include structure and bridge design.
 
 ### Project 1: Title of Your Project
 ![Screenshot of project](images/Project1.png)  
-*Brief description of the project goes here. Include what tools/languages you used and what the outcome was.*
-
-[View the code](https://github.com/yourusername/project1)
+*I can work with large data sets in python and create visually appealing graphs based of the data*
 
 ---
 
