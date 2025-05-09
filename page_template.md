@@ -1,4 +1,4 @@
-# Your Full Name
+# Broden Dean
 
 Welcome to my personal website! Here you'll find information about my background, projects, and interests.
 
