@@ -1,7 +1,7 @@
 ## Contact Information
 
 - [Email Me](mailto:broden.scott.dean@gmail.com)
-- [Phone Number: (308)-537-6616]
+- Phone Number: (308)-537-6616
 
 ## Navigation
 
