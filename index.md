@@ -32,6 +32,7 @@ My interests include structure and bridge design.
 
 ### Example 2: 
 
+![Screenshot of project](Project2.png)
 ---
 
 ## Connect With Me
