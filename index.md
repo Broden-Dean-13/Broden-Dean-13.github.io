@@ -42,9 +42,9 @@ My interests include structure and bridge design.
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [LinkedIn](https://www.linkedin.com/in/broden-dean-7542a2307/)  
 - [GitHub](https://github.com/yourusername)  
-- [Email Me](mailto:yourname@university.edu)
+- [Email Me](mailto:broden.scott.dean@gmail.com)
 
 ---
 
