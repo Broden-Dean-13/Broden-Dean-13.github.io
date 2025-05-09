@@ -1,0 +1,1 @@
+I am a Sophomore at the University of Nebraska-Lincoln studying Civil Engineering with minors in Mathematics, Business, and Construction Management. I am interested in learning more about Structural Engineering as well as Bridge Design.
