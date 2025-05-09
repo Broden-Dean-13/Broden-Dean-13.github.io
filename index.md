@@ -13,6 +13,9 @@ My interests include structure and bridge design.
 
 ## Skills
 
+- Microstation
+- BluBeam
+- Microsoft Office
 - Python  
 - Data Visualization (Matplotlib, Seaborn)  
 - Data Analysis  
