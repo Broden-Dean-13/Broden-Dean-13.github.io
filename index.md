@@ -6,8 +6,8 @@ Welcome to my personal website! Here you'll find information about my background
 
 ## About Me
 
-I am an undergraduate student in Civil Engineering at the University of Nebraska-Lincoln.  
-My interests include *data analytics*, and `Python programming`.
+I am an undergraduate student in Civil Engineering major at the University of Nebraska-Lincoln with minors in Mathematics, Business, and Construction Managmnent.  
+My interests include structure and bridge design.
 
 ---
 
