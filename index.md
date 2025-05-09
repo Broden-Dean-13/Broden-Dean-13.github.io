@@ -24,11 +24,13 @@ My interests include structure and bridge design.
 
 ---
 
-## Projects
+## Past Work
 
-### Project 1: Creating Visualizations of Large Data Sets
+### Example 1: Creating Visualizations of Large Data Sets
 ![Screenshot of project](Project1-1.png)  
-*I can work with large data sets in python and create visually appealing graphs based of the data*
+*During this project I worked with extremely large data sets from a variety of states and organzied the risk of hurricanes by county and then sorted them by population*
+
+### Example 2: 
 
 ---
 
