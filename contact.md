@@ -1,4 +1,6 @@
+## Contact
 
+[Email Me](mailto:broden.scott.dean@gmail.com)
 
 
 ## Navigation
