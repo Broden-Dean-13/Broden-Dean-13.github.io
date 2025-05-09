@@ -26,7 +26,7 @@ My interests include structure and bridge design.
 
 ## Projects
 
-### Project 1: Title of Your Project
+### Project 1: Creating Visualizations of Large Data Sets
 ![Screenshot of project](images/Project1.png)  
 *I can work with large data sets in python and create visually appealing graphs based of the data*
 
