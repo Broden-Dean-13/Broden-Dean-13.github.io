@@ -34,12 +34,6 @@ My interests include structure and bridge design.
 
 ---
 
-### Project 2: Another Project
-![Placeholder image](images/project2.jpg)  
-*A short description of this project. What problem did it solve? What did you learn?*
-
----
-
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/broden-dean-7542a2307/)  
