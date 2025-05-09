@@ -30,9 +30,10 @@ My interests include structure and bridge design.
 ![Screenshot of project](Project1-1.png)  
 *During this project I worked with extremely large data sets from a variety of states and organzied the risk of hurricanes by county and then sorted them by population*
 
-### Example 2: 
-
+### Example 2: Creating bar charts with multiple variables
 ![Screenshot of project](Project2.png)
+*During this project I was tasked with identfiy the type, amount, and regional distribution of different cars. This experience taught me how to sucessfully incorporate multiple variables into one graph while also keeping it easily readible.*
+
 ---
 
 ## Connect With Me
